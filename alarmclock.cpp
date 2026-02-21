@@ -47,7 +47,7 @@ void AlarmClock::updateTime()
     ui->label_currentTime->setText(
         QTime::currentTime().toString("HH:mm:ss"));
 }
-
+//add alarm each time//
 void AlarmClock::addAlarm()
 {
     Alarm alarm;

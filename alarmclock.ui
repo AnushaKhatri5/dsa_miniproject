@@ -2,6 +2,7 @@
 <ui version="4.0">
  <class>AlarmClock</class>
  <widget class="QMainWindow" name="AlarmClock">
+ //// Frontend implementation//
 
   <property name="geometry">
    <rect>
